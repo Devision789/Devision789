@@ -5,6 +5,6 @@
 - 🏋️‍ Aspiring to push the boundaries of vision-based technologies
 - 🏋️ I'm open to collaborations and looking for opportunities to work with like-minded people and organizations.
 - 🎯 I am actively seeking opportunities to apply my expertise both locally in Vietnam and remotely for international firms.
-- 📫 You can reach me via email at computervision9999@gmail.com or on WhatsApp at +84898336308.
+- 📫 You can reach me via email at computervision9999@gmail.com 
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Although the world of code consumes most of my day, I love unplugging and connecting with nature through hiking.
