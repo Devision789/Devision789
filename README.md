@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devision789" alt="devision789" /></a> </p>
 
-- 🔭 Hi, I’m @Devision789 Nguyen, a computer vision enthusiast with a knack for practical application of YOLO models.
+- 🔭 Hi, I’m Nguyen, a computer vision enthusiast with a knack for practical application of YOLO models.
 
 - 🌱 I'm currently honing my knowledge in cutting-edge computer vision models, image processing, and object detection methodologies
 
