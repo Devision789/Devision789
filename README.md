@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen</h1>
 <h3 align="center">A AI Engineer From Viet Nam</h3>
-
+![](https://komarev.com/ghpvc/?username=Devision789)
 
 - 🔭 Hi, I’m Nguyen, a computer vision enthusiast with a knack for practical application of YOLO models.
 
@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devision789&show_icons=true&locale=en" alt="devision789" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devision789&" alt="devision789" /></p>
-![](https://komarev.com/ghpvc/?username=Devision789)
+
