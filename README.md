@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen</h1>
 <h3 align="center">A AI Engineer from Viet Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devision789&label=Profile%20views&color=0e75b6&style=flat" alt="devision789" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devision789" alt="devision789" /></a> </p>
 
 - 🔭 Hi, I’m Nguyen, a computer vision enthusiast with a knack for practical application of YOLO models.
 
