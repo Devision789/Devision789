@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Devision789)
+
 - 👋 Hi, I’m @Devision789 Nguyen, a computer vision enthusiast with a knack for practical application of YOLO models.
 - 👀 Skilled in exploring and solving complex real-world problems using computer vision techniques
 - 👀 I've successfully utilized YOLO models in various applications to resolve computer vision problems effectively.
