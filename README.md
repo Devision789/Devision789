@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devision789&show_icons=true&locale=en" alt="devision789" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devision789&" alt="devision789" /></p>
-![](https://komarev.com/ghpvc/?username=Devision789&color=green)
+![](https://komarev.com/ghpvc/?username=Devision789)
