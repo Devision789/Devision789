@@ -5,15 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devision789" alt="devision789" /></a> </p>
 
-- 🔭 I’m currently working on [Devision789](https://github.com/Devision789/Devision789)
+- 🔭 Hi, I’m @Devision789 Nguyen, a computer vision enthusiast with a knack for practical application of YOLO models.
 
-- 🌱 I’m currently learning **computervision**
+- 🌱 I'm currently honing my knowledge in cutting-edge computer vision models, image processing, and object detection methodologies
 
-- 👯 I’m looking to collaborate on [Devision789](https://github.com/Devision789/Devision789)
+- 👀 Skilled in exploring and solving complex real-world problems using computer vision techniques
+  
+- 👀 I've successfully utilized YOLO models in various applications to resolve computer vision problems effectively.
 
-- 🤝 I’m looking for help with [Devision789](https://github.com/Devision789/Devision789)
+- 👯 I'm open to collaborations and looking for opportunities to work with like-minded people and organizations.
 
-- 💬 Ask me about **computervision, machine learning**
+- 🤝 I am actively seeking opportunities to apply my expertise both locally in Vietnam and remotely for international firms.
+
+- 💬 Ask me about **Computer vision, Image Processing, Machine learning, Embedded System**
 
 - 📫 How to reach me **computervision9999@gmail.com**
 
