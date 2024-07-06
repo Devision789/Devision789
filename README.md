@@ -18,6 +18,8 @@
 
 - 📫 How to reach me **computervision9999@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=Devision789)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/ai freelancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ai freelancer" height="30" width="40" /></a>
