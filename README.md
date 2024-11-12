@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Computer vision, Image Processing, Machine learning, Embedded System**
 
-- 📫 How to reach me **computervision9999@gmail.com**
+- 📫 How to reach me **forwork.tivasolutions@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=Devision789)
 
